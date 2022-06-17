@@ -1,11 +1,11 @@
-﻿# Project Name/Title Goes Here
+﻿# NFC Ring Lockbox
 This will serve as a brief description of your project. Limit this to three sentences because it can become overly long at that point. This copy should draw the user in and make she/him want to read more.
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| Firstname Lastname | Current Highschool | Electrical Engineering | Incoming Senior
+| Oviya | Saratoga High School | Mechanical Engineering | Incoming Senior
 
-![Headstone Image](https://bluestampengineering.com/wp-content/uploads/2016/05/improve.jpg)
+![Headstone Image] https://lh3.googleusercontent.com/pw/AM-JKLVjoaOj20mrgSaT2xlT8xI3zW5ae3hWRTWBcDVfpSIbOZJ1DSCTVWk1yNrKifwZxAZa_r3TzbY-AkHYKdsfEh-7V2UPap4HYCyCKKVPUsxkHztkGz6gToz-faYzZiiRTWbgspp4wv69V2qW3ffDSI3Q=w1470-h1468-no?authuser=0 
   
 # Final Milestone
 My final milestone is the increased reliability and accuracy of my robot. I ameliorated the sagging and fixed the reliability of the finger. As discussed in my second milestone, the arm sags because of weight. I put in a block of wood at the base to hold up the upper arm; this has reverberating positive effects throughout the arm. I also realized that the forearm was getting disconnected from the elbow servo’s horn because of the weight stress on the joint. Now, I make sure to constantly tighten the screws at that joint. 
