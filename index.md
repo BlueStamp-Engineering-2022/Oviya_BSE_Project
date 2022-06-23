@@ -19,12 +19,12 @@ My final milestone is the increased reliability and accuracy of my robot. I amel
 # First Milestone
   
 
-My first milestone was getting the small box to fully function with the lock component. I started off by wiring everything into the arduino and the nfc sensor, which went smoothly. Then, I attempted to upload the premade code onto my arduino, which I had a lot of trouble with. Once I got the IDE to detect my arduino, I changed the code to detect the card and the blue tag, which made the servo turn, unlatching from its locked position
+My first milestone was getting the small box to fully function with the lock component. I started off by wiring everything into the arduino and the nfc sensor, which went smoothly. Then, I attempted to upload the premade code onto my arduino, which I had a lot of trouble with. Once I got the IDE software to detect my arduino, I changed the code to detect the card and the blue tag, which made the servo turn, unlatching from its locked position. I taped everything in temporary positions inside the lid of the box to make sure it could open and close. My plan now is to transfer everything into the bigger box, and find a way to keep the power bank inside the box, having it deliver power to the arduino and be charged at the same time.
 
 [![First Milestone](https://i3.ytimg.com/vi/IFp1ID-JiJs/maxresdefault.jpg)](https://youtu.be/IFp1ID-JiJs){:target="_blank" rel="noopener"}
 
 # Starter Project
 
-My starter project was the TV-B-Gone
+My starter project was the TV-B-Gone. 
 
 [![Starter Project](http://i3.ytimg.com/vi/0r1jMHuBnds/hqdefault.jpg)](https://youtu.be/0r1jMHuBnds){:target="_blank" rel="noopener"}
