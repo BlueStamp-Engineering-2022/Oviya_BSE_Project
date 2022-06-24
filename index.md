@@ -27,6 +27,6 @@ My first milestone was getting the small box to fully function with the lock com
 
 # Starter Project
 
-My starter project was the TV-B-Gone. 
+My starter project was the TV-B-Gone. I enjoyed this starter project and I liked learning how to solder
 
 [![Starter Project](http://i3.ytimg.com/vi/0r1jMHuBnds/hqdefault.jpg)](https://youtu.be/0r1jMHuBnds){:target="_blank" rel="noopener"}
