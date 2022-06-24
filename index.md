@@ -1,5 +1,6 @@
 ﻿# NFC Ring Lockbox
-This will serve as a brief description of your project. Limit this to three sentences because it can become overly long at that point. This copy should draw the user in and make she/him want to read more.
+
+My project is essentially a box that is locked from the inside, and there is a sensor on the inside lid that can detect an NFC tag to open the box. The lock mechanism consists of a servo and an inside lock system.
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
