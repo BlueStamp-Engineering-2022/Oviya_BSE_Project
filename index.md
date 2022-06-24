@@ -10,6 +10,7 @@ My project is essentially a box that is locked from the inside, and there is a s
   
 # Final Milestone
 
+My third and final milestone is all the modifications I made to the big box. I glued every component in the box so it looked cleaner, and then I worked on the LED and its code. The LEDs were challenging since I had trouble wiring it into my arduino nano because the arduino was already very crowded from the sensor and the servo. I also had a lot of trouble with the code for the LEDs, since there were a vast majority of websites on programming the LED strip I had, and some said to use the FastLED library, and others said to use the Adafruit NeoPixel library. I ended up using the FastLED library and made the lights turn on one by one once the box is unlocked by having the code detect when the servo is in the open position, and having it turn on the leds when it is open. Finally, I added the light diffuser sheet which had 2 useful properties. The sheet is a transleucent cloth that dims the lights so they arent so bright, but it also covered all the components in the lid of the box so it looks neater.
 
 [![Final Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612573869/video_to_markdown/images/youtube--F7M7imOVGug-c05b58ac6eb4c4700831b2b3070cd403.jpg )](https://www.youtube.com/watch?v=F7M7imOVGug&feature=emb_logo "Final Milestone"){:target="_blank" rel="noopener"}
 
